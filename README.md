@@ -14,6 +14,17 @@ All mods are QoL type mods and don't modify any entities. As such, these mods **
 
 ---
 
+## Installation Instructions.
+
+### r2modman
+Search up the mod on thunderstore and install as per r2modman instructions.
+
+### Manual
+Go to the required release for a specific mod and download the `.dll`.
+Copy this `.dll` to your `BepInEx/plugins/` folder within your game install.
+
+---
+
 ## IncreaseMaxWarpSpeed
 
 A basic config mod that allows you to increase the maximum warp speed of the Icarus Mecha.
