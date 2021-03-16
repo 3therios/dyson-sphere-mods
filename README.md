@@ -18,6 +18,10 @@ All mods are QoL type mods and don't modify any entities. As such, these mods **
 
 A basic config mod that allows you to increase the maximum warp speed of the Icarus Mecha.
 
+Note: Setting the warp speed to anything greater than 0.5 LY can cause issues "handling" the mecha.  
+If you're used to crashing into planets from warp and having the game exit you, this may not be possible due to the speed of approach.  
+As such, it's recommended to exit warp when you're close enough to the planet and sail the rest of the way.
+
 ---
 
 ## CopyLogisticStationConfig
