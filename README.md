@@ -8,8 +8,8 @@ All mods are QoL type mods and don't modify any entities. As such, these mods **
 ---
 
 ## Mods
-1. [IncreaseMaxWarpSpeed](#IncreaseMaxWarpSpeed) (In Development)
-2. [CopyLogisticStationConfig](#CopyLogisticStationConfig) (Pending)
+1. [IncreaseMaxWarpSpeed](#IncreaseMaxWarpSpeed) (Released)
+2. [CopyLogisticStationConfig](#CopyLogisticStationConfig) (In Development)
 3. [RecipeBrush](#RecipeBrush) (Pending)
 
 ---
