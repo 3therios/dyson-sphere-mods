@@ -1,4 +1,4 @@
-** NO LONGER BEING MAINTAINED **
+**NO LONGER BEING MAINTAINED**
 
 # Dsyon Sphere Program Mods
 
