@@ -1,3 +1,5 @@
+** NO LONGER BEING MAINTAINED **
+
 # Dsyon Sphere Program Mods
 
 Series of mods for the game [Dyson Sphere Program](https://store.steampowered.com/app/1366540/Dyson_Sphere_Program/) developed by Youthcat Studio and published by [Gamera Game](https://www.gameragame.com/)
